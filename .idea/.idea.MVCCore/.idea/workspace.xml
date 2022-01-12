@@ -5,193 +5,10 @@
     <projectFile profileName="MVCCore">MVCCore/MVCCore.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b526940-f8f8-4064-b6c0-aa89db96f873" name="Changes" comment="memebership controller">
-      <change afterPath="$PROJECT_DIR$/MVCCore/Controllers/MembershipController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/Models/Logininfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/Pages/Membership/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/Pages/Membership/Login.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Humanizer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/MVCCore.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/SQLitePCLRaw.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/System.Composition.AttributedModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/System.Composition.Convention.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/System.Composition.Hosting.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/System.Composition.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/System.Composition.TypedParts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/app.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ref/MVCCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/.nupkg.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator.5.0.2.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator.5.0.2.nupkg.sha512" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/DotnetToolSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Microsoft.Extensions.FileProviders.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Microsoft.Extensions.FileProviders.Physical.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Microsoft.Extensions.FileSystemGlobbing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/build/microsoft.visualstudio.web.codegeneration.tools.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/buildMultiTargeting/microsoft.visualstudio.web.codegeneration.tools.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/dotnet-aspnet-codegenerator.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/dotnet-aspnet-codegenerator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/dotnet-aspnet-codegenerator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/dotnet-aspnet-codegenerator.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/dotnet-aspnet-codegenerator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/shims/win-x64/dotnet-aspnet-codegenerator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/shims/win-x86/dotnet-aspnet-codegenerator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/dotnet-aspnet-codegenerator/5.0.2/tools/net5.0/any/toolassets/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/.store/dotnet-aspnet-codegenerator/5.0.2/restore.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.RazorCoreGenerate.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.RazorTargetAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.TagHelpers.input.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.TagHelpers.output.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/MVCCore.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Pages/Membership/Index.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/ref/MVCCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/staticwebassets/MVCCore.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/Debug/net5.0/staticwebassets/MVCCore.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/MVCCore.csproj.codegeneration.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVCCore/obj/dotnet-aspnet-codegenerator" afterDir="false" />
+    <list default="true" id="8b526940-f8f8-4064-b6c0-aa89db96f873" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MVCCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MVCCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCore/Controllers/MembershipController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCore/Controllers/MembershipController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCore/Pages/Membership/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCore/Pages/Membership/Index.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +77,8 @@
       <updated>1641756334525</updated>
       <workItem from="1641756341624" duration="692000" />
       <workItem from="1641847011578" duration="4154000" />
-      <workItem from="1641933106450" duration="5618000" />
+      <workItem from="1641933106450" duration="5797000" />
+      <workItem from="1642019749618" duration="2120000" />
     </task>
     <task id="LOCAL-00001" summary="db structure">
       <created>1641850978230</created>
@@ -276,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641933498106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="loggin page">
+      <created>1641940009056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641940009056</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +127,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="db structure" />
     <MESSAGE value="memebership controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="memebership controller" />
+    <MESSAGE value="loggin page" />
+    <option name="LAST_COMMIT_MESSAGE" value="loggin page" />
   </component>
 </project>

@@ -39,12 +39,13 @@ namespace MVCCore.Controllers
                     message = "fail to login";
                 }
             }
-
+ 
             else
             {
                 message = "Please type down correct information";
             }
 
+            ModelState.AddModelError(string.Empty, message);
             return View(login);
         }
     }

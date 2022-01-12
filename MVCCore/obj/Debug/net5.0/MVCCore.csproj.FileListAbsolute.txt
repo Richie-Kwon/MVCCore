@@ -154,4 +154,5 @@
 /Users/richie/RiderProjects/MVCCore/MVCCore/obj/Debug/net5.0/ref/MVCCore.dll
 /Users/richie/RiderProjects/MVCCore/MVCCore/obj/Debug/net5.0/MVCCore.pdb
 /Users/richie/RiderProjects/MVCCore/MVCCore/obj/Debug/net5.0/MVCCore.genruntimeconfig.cache
-/Users/richie/RiderProjects/MVCCore/MVCCore/obj/Debug/net5.0/Razor/Pages/Membership/Index.cshtml.g.cs
+/Users/richie/RiderProjects/MVCCore/MVCCore/obj/Debug/net5.0/Razor/Pages/Shared/Index.cshtml.g.cs
+/Users/richie/RiderProjects/MVCCore/MVCCore/obj/Debug/net5.0/Razor/Pages/Shared/Login.cshtml.g.cs

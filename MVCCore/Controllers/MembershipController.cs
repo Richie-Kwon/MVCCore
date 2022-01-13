@@ -29,17 +29,17 @@ namespace MVCCore.Controllers
             {
                 string userId = "Yera";
                 string password = "123";
-                if (login.UserId.Equals(userId) && login.Password.Equals(password))
+                if (!login.UserId.Equals(userId) || !login.Password.Equals(password))
+                {
+                    message = "fail to login";
+                }
+                else
                 {
                     TempData["Message"] = "Successful!";
                     return RedirectToAction("Index", "Membership");
                 }
-                else
-                {
-                    message = "fail to login";
-                }
             }
- 
+  
             else
             {
                 message = "Please type down correct information";
